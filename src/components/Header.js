@@ -10,13 +10,13 @@ function Header() {
         <Navbar bg="light" variant="light">
           <Container>
             <img
-              src="https://media.istockphoto.com/id/981368726/vector/restaurant-food-drinks-logo-fork-knife-background-vector-image.jpg?s=612x612&w=0&k=20&c=9M26CBkCyEBqUPs3Ls5QCjYLZrB9sxwrSFmnAmNCopI="
-              width="80"
-              height="80"
+              src="https://www.deputy.com/uploads/2018/08/Screen-Shot-2018-08-08-at-12.19.36-PM.png"
+              width="60"
+              height="60"
               className="d-inline-block align-top"
               alt="React Bootstrap logo"
             />
-            <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+            <Navbar.Brand href="#home">e-hunger</Navbar.Brand>
 
             <Nav className="me-auto">
               <Nav.Link href="#home">Home</Nav.Link>
